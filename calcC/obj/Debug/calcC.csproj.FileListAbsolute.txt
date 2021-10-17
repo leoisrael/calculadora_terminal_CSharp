@@ -1,0 +1,6 @@
+C:\Users\israel.albuquerque_s\source\repos\calcC\calcC\bin\Debug\calcC.exe.config
+C:\Users\israel.albuquerque_s\source\repos\calcC\calcC\bin\Debug\calcC.exe
+C:\Users\israel.albuquerque_s\source\repos\calcC\calcC\bin\Debug\calcC.pdb
+C:\Users\israel.albuquerque_s\source\repos\calcC\calcC\obj\Debug\calcC.csproj.CoreCompileInputs.cache
+C:\Users\israel.albuquerque_s\source\repos\calcC\calcC\obj\Debug\calcC.exe
+C:\Users\israel.albuquerque_s\source\repos\calcC\calcC\obj\Debug\calcC.pdb
